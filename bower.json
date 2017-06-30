@@ -1,0 +1,22 @@
+{
+  "name": "collact-icons",
+  "version": "1.1.1",
+  "homepage": "https://github.com/felipecslima/collact-icons",
+  "description": "Icons Collact",
+  "main": ["js/icons.js","css/main.css"],
+  "keywords": [
+    "collact",
+    "icons"
+  ],
+  "authors": [
+    "Joel Lima"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
