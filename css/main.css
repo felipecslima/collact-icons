@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/06/2017, 18:11:29
+    Author     : felipelima
+*/
+md-icon.size-8 {
+  min-height: 8px;
+  min-width: 8px;
+  width: 8px;
+  height: 8px;
+}
+md-icon.size-16 {
+  min-height: 8px;
+  min-width: 8px;
+  width: 16px;
+  height: 16px;
+}
+md-icon.size-18 {
+  min-height: 8px;
+  min-width: 8px;
+  width: 18px;
+  height: 18px;
+  min-height: 16px;
+  min-width: 16px;
+}
+md-icon.size-32 {
+  width: 32px;
+  height: 32px;
+}
+md-icon.size-40 {
+  width: 40px;
+  height: 40px;
+}
+md-icon.size-64 {
+  width: 64px;
+  height: 64px;
+}
+md-icon.size-128 {
+  width: 128px;
+  height: 128px;
+}
+md-icon svg * {
+  fill: inherit !important;
+}
+/*# sourceMappingURL=main.css.map */
