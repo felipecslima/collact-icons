@@ -3,6 +3,7 @@
 angular.module('collact-iconsSvg', [])
         .config(['$mdIconProvider', function ($mdIconProvider) {
                 $mdIconProvider
+                        .icon('cl-flag', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-flag.svg', 24)
                         .icon('cl-auto-pilot', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-auto-pilot.svg', 24)
                         .icon('cl-bday', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-bday.svg', 24)
                         .icon('cl-business', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-business.svg', 24)
@@ -18,5 +19,4 @@ angular.module('collact-iconsSvg', [])
                         .icon('cl-tablet', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-tablet.svg', 24)
                         .icon('cl-user', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-user.svg', 24)
                         ;
-
             }]);
