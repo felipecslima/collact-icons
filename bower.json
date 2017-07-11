@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "homepage": "https://github.com/felipecslima/collact-icons",
   "description": "Icons Collact",
-  "main": "js/icons.js",
+  "main":[ "js/icons.js","css/main.css"],
   "keywords": [
     "collact",
     "icons"
