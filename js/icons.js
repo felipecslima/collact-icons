@@ -3,6 +3,8 @@
 angular.module('collact-iconsSvg', [])
         .config(['$mdIconProvider', function ($mdIconProvider) {
                 $mdIconProvider
+                        .icon('cl-ieg', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-ieg.svg', 24)
+                        .icon('cl-link', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-link.svg', 24)
                         .icon('cl-landingpage', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-landingpage.svg', 24)
                         .icon('cl-opnion', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-search.svg', 24)
                         .icon('cl-acquisition', 'https://s3-sa-east-1.amazonaws.com/res.collact.com.br/imgs/icons/cl-acquisition.svg', 24)
